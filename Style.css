@@ -191,7 +191,7 @@ to{
 }
 .B button a{
     text-decoration: none;
-    color: darkred;
+    color: red;
     font-weight: bold;
     transition: 1s;
     -webkit-transition: 1s;
